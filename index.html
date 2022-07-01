@@ -457,7 +457,42 @@ To get a vehicle in the best condition it can be in, an extensive process called
     <!-- Footer End -->
 	
 	<!---------------------WhatsApp Button Start------------------->
-	
+	<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?18942';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+  "enabled":true,
+  "chatButtonSetting":{
+      "backgroundColor":"#4dc247",
+      "ctaText":"Message Us",
+      "borderRadius":"25",
+      "marginLeft":"0",
+      "marginBottom":"50",
+      "marginRight":"50",
+      "position":"right"
+  },
+  "brandSetting":{
+      "brandName":"AutoBright Detailerz",
+      "brandSubTitle":"Typically replies within a day",
+      "brandImg":"https://i.ibb.co/3s0s739/apple-touch-icon.png",
+      "welcomeText":"Hi there!\nHow can I help you?",
+      "messageText":"",
+      "backgroundColor":"#2e2e2e",
+      "ctaText":"Start Chat",
+      "borderRadius":"25",
+      "autoShow":false,
+      "phoneNumber":"917012230372"
+  }
+};
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
 	
 	<!---------------------WhatsApp Button End------------------->
 

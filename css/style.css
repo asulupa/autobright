@@ -607,7 +607,7 @@ header.page-header .main-menu{
 .navbar-brand img {
 	margin-top: 0;
 	margin: 0 auto;
-	border: 2px #fff dashed;
+	/*border: 2px #fff dashed;*/
 	padding: 15px;
 	/* border-radius: 50px; */
 	border-left: none;
@@ -700,9 +700,8 @@ header.page-header .main-menu.minified{
 }
 
 .main-slides h1{
-	
-	
-	background: rgba(0, 0, 0, 0.8);
+		
+	background: rgba(0,0,0,0.8);
 	padding:10px;
 	 
 	}

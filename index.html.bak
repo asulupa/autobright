@@ -76,7 +76,7 @@
                 <img class="sp-image" src="images/slider/slider-img-1.jpg" alt="Slider 1"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">Facelift Your Car to New Look</span>
+                <span class="highlight-texts">Facelift your Car to New Look</span>
                 </h1> 
             </div>
             <!-- Slides End -->

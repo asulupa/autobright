@@ -686,7 +686,7 @@ header.page-header .main-menu.minified{
 .main-slides h1.slider-text-big{
 	font-size: 32px;
 	color: #E9E9E9;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	text-align: center;
 	margin-right: 50px;
 	

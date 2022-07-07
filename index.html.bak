@@ -4,7 +4,7 @@
    <meta charset="utf-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="Being a leading automobile detailerz we give expert, first-rate service with a satisfaction guarantee. Let's brighten your car !!!"> 
-	<meta name="keywords" content="Car Detailerz, Car Washing, Car Polishing, Auto Bright Detailerz, autobrightdetilerz.com, shampoo washing, ceramic coating, painting, Denting">
+	<meta name="keywords" content="Car Detailerz, Car Washing, Car Polishing, AutoBright Detailerz, autobrightdetilerz.com, shampoo washing, ceramic coating, painting, Denting">
 	<meta name="Author" content="WebThemez"> 
     <title>Auto Bright Detailerz</title>
 	<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
@@ -52,7 +52,7 @@
                             <a href="#services">SERVICES</a>
                         </li>
                         <li>
-                            <a href="#portfolio">GALLERY</a>
+                            <a href="#portfolio">OUR WORKS</a>
                         </li> 
                        <li>
                             <a href="#footer">CONTACT US</a>
@@ -73,10 +73,22 @@
             <!-- Slides -->
             <div class="sp-slide main-slides">
             <div class="img-overlay"></div>
-                <img class="sp-image" src="images/slider/slider-img-1.jpg" alt="Slider 2"/> 
+                <img class="sp-image" src="images/slider/slider-img-1.jpg" alt="Slider 1"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">CAR WASH & DETAILING</span>
+                <span class="highlight-texts">Facelift Your Car to New Look</span>
+                </h1> 
+            </div>
+            <!-- Slides End -->
+			
+				
+            <!-- Slides -->
+            <div class="sp-slide main-slides">
+                <div class="img-overlay"></div> 
+                <img class="sp-image" src="images/slider/slider-img-2.jpg" alt="Slider 2"/> 
+                <h1 class="sp-layer slider-text-big"
+                data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
+                <span class="highlight-texts">Professional Car Wash and Detailing</span>
                 </h1> 
             </div>
             <!-- Slides End -->
@@ -84,10 +96,10 @@
             <!-- Slides -->
             <div class="sp-slide main-slides">
                 <div class="img-overlay"></div> 
-                <img class="sp-image" src="images/slider/slider-img-2.jpg" alt="Slider 1"/> 
+                <img class="sp-image" src="images/slider/slider-img-3.jpg" alt="Slider 3"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">CERAMIC COATING</span>
+                <span class="highlight-texts">Paint Correction and Polishing</span>
                 </h1> 
             </div>
             <!-- Slides End -->
@@ -96,10 +108,10 @@
             <!-- Slides -->
             <div class="sp-slide main-slides">
                 <div class="img-overlay"></div> 
-                <img class="sp-image" src="images/slider/slider-img-3.jpg" alt="Slider 3"/> 
+                <img class="sp-image" src="images/slider/slider-img-4.jpg" alt="Slider 4"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">DENTING & PAINTING</span>
+                <span class="highlight-texts">Ceramic Paint Protection</span>
                 </h1> 
             </div>
             <!-- Slides End -->
@@ -113,9 +125,9 @@
             <div class="row">
                 <!-- Section Header -->
                 <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">About Us</span></h2>
+                    <h2><span class="highlight-text">ABOUT US</span></h2>
                    
-                    <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Founded in 2020 with the passion and inspiration of our cherished father late PB Ahammed, the creator of the renowned spray painting and wheel alignment center in Aluva - A&B Spray Painting, since 1978. 
+                    <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Founded in 2020 with the passion and inspiration of our cherished father late PB Ahammed, the founder of the renowned spray painting and wheel alignment center in Aluva - A&B Spray Painting, since 1978. 
 </p>
                 </div>
                 <!-- Section Header End -->
@@ -126,7 +138,7 @@
 
                 <div class="col-md-6 col-sm-6 col-xs-12 customized-text wow fadeInDown black-ed">
 				<p></p>
-				<p>As one of the top automobile detailerz, we do everything from straightforward car washing to opulent detailing that includes denting and painting. We are committed to offering top-notch service at a fair price with the assistance of competent specialists. Our services are featured with </p>
+				<p>As one of the top automobile detailerz, we do everything from straightforward car washing to opulent detailing that includes dent repair and painting. We are committed to offering top-notch service at a fair price with the assistance of competent specialists. Our services are featured with </p>
                     <div class="row"> 
                         <div class="col-md-11">
                             <strong>Perfection and Quality</strong>
@@ -136,13 +148,13 @@
                     <div class="row"> 
                         <div class="col-md-11">
                             <strong>Specialized Technicians</strong>
-                            <p>Our trained professionals and their experience make everything work more perfect</p>
+                            <p>Our trained professionals and their experience make everything work more perfect.</p>
                         </div>
                     </div>
                     <div class="row"> 
                         <div class="col-md-11">
                             <strong>Customer satisfaction</strong>
-                            <p>Guaranteed customer loyality and satisfaction by providing unmatched results at an affordable price</p>
+                            <p>Guaranteed customer loyality and satisfaction by providing unmatched results at an affordable price.</p>
                         </div>
                     </div>
                 </div>
@@ -159,10 +171,10 @@
 
                 <!-- Section Header -->
                 <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">Services</span></h2>
+                    <h2><span class="highlight-text">SERVICES</span></h2>
                    
                     <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">
-To get a vehicle in the best condition it can be in, an extensive process called detailing is used.Our services are categorised into many levels so that consumers can choose from them.</p>
+To get a vehicle in the best condition it can be in, an extensive process called detailing is used.We offer a variety of detailing packages to cater to specific customer needs.</p>
                 </div>
                 <!-- Section Header End -->
  
@@ -175,7 +187,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
 							<img src="images/01.jpg" alt="Custom Image">
                             <div class="icon"> <h3>Washing</h3>
                             </div> 
-                            <p>Cleaning the car by washing it several times, including with shampoo</p>
+                            <p>Cleaning the car by giving it a thorough, multiple-washing, including using shampoo.</p>
 							</div> 
 </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
@@ -184,7 +196,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
                             <div class="icon"> <h3>Detailing</h3>
                             </div>
                             
-                            <p>Inspecting and repairing flaws on both the inside and the outside</p>
+                            <p>Inspecting and repairing flaws on both the inside and the outside.</p>
                         </div>
 </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
@@ -193,7 +205,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
                             <div class="icon"> <h3>Polishing</h3>
                             </div>
                             
-                            <p>Applying high quality wax and polish materials to your car to make it shine</p>
+                            <p>Applying high-quality wax and polish supplies to create a new appearance.</p>
                         </div>
 </div>
                      
@@ -206,13 +218,13 @@ To get a vehicle in the best condition it can be in, an extensive process called
                             <div class="icon"> <h3>Ceramic Coating</h3>
                             </div>
                             
-                            <p>Premium polymer coating to protect your car's paint from external scratches</p>
+                            <p>High-quality polymer coating to shield the paint on your car from external scratches.</p>
                         </div>
 </div>
                                          <div class="col-md-4 col-sm-4 col-xs-12 text-xs-center wow fadeInDown" data-wow-delay=".2s">
 						<div class="service-box">
 							<img src="images/05.jpg" alt="Custom Image">
-                            <div class="icon"> <h3>Denting</h3>
+                            <div class="icon"> <h3>Dent Repair</h3>
                             </div>
                             
                             <p>Add-on service to repair dents and make modifications as needed</p>
@@ -223,7 +235,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
                             <div class="icon"> <h3>Painting</h3>
                             </div>
                             
-                            <p>Service addition as needed, roof coating, clear coating, and full painting</p>
+                            <p>Roof coating, clear coating, and complete painting are optional service additions.</p>
                         </div>
 </div>
                     </div>
@@ -243,9 +255,9 @@ To get a vehicle in the best condition it can be in, an extensive process called
 
                 <!-- Section Header -->
                 <div class="col-md-12 col-sm-12 col-xs-12 section-header wow fadeInDown">
-                    <h2><span class="highlight-text">Gallery</span></h2>
+                    <h2><span class="highlight-text">OUR WORKS</span></h2>
                    
-                    <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Take a look at some of our professional working snaps and see what calibers they show. We are confident that you will adore it.</p>
+                    <p class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">Check out the qualities that are demonstrated in some of our finished projects.We are confident that you will adore it.</p>
                 </div>
                 <!-- Section Header End -->
 
@@ -411,17 +423,17 @@ To get a vehicle in the best condition it can be in, an extensive process called
                 <div class="col-md-4">
 				<img src="images/logo3.png" alt="">
                   <p> </p>
-                 <p>Being a leading automobile detailerz we give expert, first-rate service with a satisfaction guarantee. Let's brighten your car !!!
+                 <p>Being a leading automobile detailerz we give expert, first-rate service with a satisfaction guarantee. Let's make your car more colourful!!!
 </p>
                 </div>
                 <div class="col-md-4">
-                    <h4>SERVICES</h4>
-                    <p>Basic Washing, Shampoo Washing, Interior and Exterior Cleaning and Detailing, Wax Polishing, Ceramic Coating, Denting and Scracth fixing, Roof coating, Spray painting and more</p>
+                    <h4>WE OFFER</h4>
+                    <p>Car wash, Interior and Exterior Cleaning and Shampoo Wash, Dent Repair, Paint Correction, Waxing & Polishing, Roof Painting, Ceramic Coating, Clear Coating and more....</p>
                 </div>
                 <div class="col-md-4 contac-us">
                     <h4>CONTACT US</h4>
-                    <p>Connect with us to make your car shine
-</p>
+                    <b>Let's give your car a fresh makeover.
+</b>
 					<ul>
                             <li><i class="fa fa-home"></i>Velanparambu Road, Pravoor Kavala, Aluva</li>
                             <li><i class="fa fa-phone"></i>+91 7012230372</li>
@@ -441,10 +453,10 @@ To get a vehicle in the best condition it can be in, an extensive process called
 
                     <ul class="footer-social-info">
                         <li>
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/AB-CAR-SPA-109820184076308" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="https://instagram.com/ab_spray__painting?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-instagram"></i></a>
                         </li>
                         
                     </ul>
@@ -458,7 +470,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
 	
 	<!---------------------WhatsApp Button Start------------------->
 	<script>
-    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?90820';
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?18942';
     var s = document.createElement('script');
     s.type = 'text/javascript';
     s.async = true;
@@ -467,7 +479,7 @@ To get a vehicle in the best condition it can be in, an extensive process called
   "enabled":true,
   "chatButtonSetting":{
       "backgroundColor":"#4dc247",
-      "ctaText":"Message us",
+      "ctaText":"Message Us",
       "borderRadius":"25",
       "marginLeft":"0",
       "marginBottom":"50",
@@ -475,16 +487,16 @@ To get a vehicle in the best condition it can be in, an extensive process called
       "position":"right"
   },
   "brandSetting":{
-      "brandName":"Auto Bright ",
-      "brandSubTitle":"Detailerz",
-      "brandImg":"",
+      "brandName":"AutoBright Detailerz",
+      "brandSubTitle":"Typically replies within a day",
+      "brandImg":"https://i.ibb.co/3s0s739/apple-touch-icon.png",
       "welcomeText":"Hi there!\nHow can I help you?",
       "messageText":"",
-      "backgroundColor":"#0a5f54",
+      "backgroundColor":"#2e2e2e",
       "ctaText":"Start Chat",
       "borderRadius":"25",
       "autoShow":false,
-      "phoneNumber":"919847454799"
+      "phoneNumber":"917012230372"
   }
 };
     s.onload = function() {

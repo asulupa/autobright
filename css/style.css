@@ -685,19 +685,28 @@ header.page-header .main-menu.minified{
 
 .main-slides h1.slider-text-big{
 	font-size: 32px;
-	color: #ffffff;
-	margin-top: 0;
-	margin-bottom: 25px;
-	font-weight: bold;
+	color: #E9E9E9;
+	/*font-weight: bold;*/
 	text-align: center;
 	margin-right: 50px;
+	
 	
 }
 
 .main-slides .slider-text h1 span{
 	
 	font-weight: 700;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
+
+.main-slides h1{
+	
+	
+	background: rgba(0, 0, 0, 0.9);
+	padding:10px;
+	 
+	}
+
 
 .main-slides p{
 	font-weight: 400;
@@ -2106,10 +2115,8 @@ form#contactForm {
   }
  
 .main-slides h1.slider-text-big {
-  color: #ffffff;
-  font-size: 36px;
-  margin-bottom: 25px;
-  margin-top: 0;
+  color: #E9E9E9;
+  font-size: 32px;
   white-space: normal !important;
   text-align: center;
   width: 100% !important;

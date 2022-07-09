@@ -6,7 +6,7 @@
     <meta name="description" content="Being a leading automobile detailerz we give expert, first-rate service with a satisfaction guarantee. Let's brighten your car !!!"> 
 	<meta name="keywords" content="Car Detailerz, Car Washing, Car Polishing, AutoBright Detailerz, autobrightdetilerz.com, shampoo washing, ceramic coating, painting, Denting">
 	<meta name="Author" content="WebThemez"> 
-    <title>Auto Bright Detailerz</title>
+    <title>AutoBright Detailerz</title>
 	<link rel="icon" type="image/x-icon" href="favicon_io/favicon.ico">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -88,7 +88,7 @@
                 <img class="sp-image" src="images/slider/slider-img-2.jpg" alt="Slider 2"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">Professional Car Wash and Detailing</span>
+                <span class="highlight-texts">Professional Car Wash & Detailing</span>
                 </h1> 
             </div>
             <!-- Slides End -->
@@ -99,7 +99,7 @@
                 <img class="sp-image" src="images/slider/slider-img-3.jpg" alt="Slider 3"/> 
                 <h1 class="sp-layer slider-text-big"
                 data-position="center" data-show-transition="left" data-hide-transition="right" data-vertical="55%" data-show-delay="1500" data-hide-delay="200">
-                <span class="highlight-texts">Paint Correction and Polishing</span>
+                <span class="highlight-texts">Paint Correction & Polishing</span>
                 </h1> 
             </div>
             <!-- Slides End -->

@@ -408,12 +408,8 @@
 		width: 18px;
 		height: 18px;
 	}
-	.sp-slides-container {
-	position: relative;
-	height:700px;
-	background: #1b1b1b;
-}
-}
+
+
 
 /* Arrows
 --------------------------------------------------*/
@@ -765,6 +761,7 @@ a.sp-video:after {
 	-moz-transition: none;
 	-webkit-transition: none;
 	-o-transition: none;
+	height: 700px;
 }
 
 .slider-pro a {
